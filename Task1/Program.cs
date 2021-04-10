@@ -7,7 +7,7 @@ namespace Task1
         static void Main(string[] args)
         {
             //создаем разные типы аккаунтов
-            var baseAcc = new BaseAccount(30000);
+            var baseAcc = new BaseAccount(35000);
             var baseAcc1 = new BaseAccount(500);
             var salaryAcc = new SalaryAccount(60000);
 
